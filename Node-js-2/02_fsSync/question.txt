@@ -1,0 +1,14 @@
+challenge time
+
+1: Create a folder name Ayan
+2: create a file it name is bio.txt and data into it
+3: add more data into file at the end of the existing data
+4: read the data without getting the buffer data at first  --> file encoding
+5: rename file mybio.txt
+6: now delete both file and the folder
+
+CRUD
+create 
+update
+read
+delete
